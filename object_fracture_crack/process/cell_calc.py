@@ -16,7 +16,7 @@
 #
 # ##### END GPL LICENSE BLOCK #####
 
-# Script copyright (C) Blender Foundation 2012
+# Script copyright (C) 3 Point X 2012
 
 
 def points_to_verts(original_xyz_minmax,
